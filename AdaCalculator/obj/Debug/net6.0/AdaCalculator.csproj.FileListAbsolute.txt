@@ -1,0 +1,15 @@
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\bin\Debug\net6.0\AdaCalculator.exe
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\bin\Debug\net6.0\AdaCalculator.deps.json
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\bin\Debug\net6.0\AdaCalculator.runtimeconfig.json
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\bin\Debug\net6.0\AdaCalculator.dll
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\bin\Debug\net6.0\AdaCalculator.pdb
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.csproj.AssemblyReference.cache
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.AssemblyInfoInputs.cache
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.AssemblyInfo.cs
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.csproj.CoreCompileInputs.cache
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.dll
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\refint\AdaCalculator.dll
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.pdb
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\AdaCalculator.genruntimeconfig.cache
+E:\Users\taina\Documents\Aulas & Atividades\Computação\TopCoders\WebFullStack\AdaCalculator_Taina\AdaCalculator\obj\Debug\net6.0\ref\AdaCalculator.dll

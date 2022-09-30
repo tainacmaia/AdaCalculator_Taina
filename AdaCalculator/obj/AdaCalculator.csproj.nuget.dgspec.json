@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj": {}
+    "E:\\Users\\taina\\Documents\\Aulas & Atividades\\Computação\\TopCoders\\WebFullStack\\AdaCalculator_Taina\\AdaCalculator\\AdaCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj": {
+    "E:\\Users\\taina\\Documents\\Aulas & Atividades\\Computação\\TopCoders\\WebFullStack\\AdaCalculator_Taina\\AdaCalculator\\AdaCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj",
+        "projectUniqueName": "E:\\Users\\taina\\Documents\\Aulas & Atividades\\Computação\\TopCoders\\WebFullStack\\AdaCalculator_Taina\\AdaCalculator\\AdaCalculator.csproj",
         "projectName": "AdaCalculator",
-        "projectPath": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\obj\\",
+        "projectPath": "E:\\Users\\taina\\Documents\\Aulas & Atividades\\Computação\\TopCoders\\WebFullStack\\AdaCalculator_Taina\\AdaCalculator\\AdaCalculator.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\taina\\Documents\\Aulas & Atividades\\Computação\\TopCoders\\WebFullStack\\AdaCalculator_Taina\\AdaCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
